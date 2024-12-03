@@ -1,0 +1,3 @@
+[submodule "justfiles"]
+	path = justfiles
+	url = git@github.com:FG-jharriso/justfiles.git
